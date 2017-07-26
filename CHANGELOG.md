@@ -14,4 +14,12 @@
 *   Updated repository in package.json
 *   Change version number to 1.0.0 to publish to apm
 
-### 1.0.1 - Deleted unecessary code from touch-bar-utility.js
+### 1.0.1 - Deleted unnecessary code from touch-bar-utility.js
+
+### 1.0.2 - apm publishing error
+### 1.0.3 - apm publishing error
+
+### 1.0.4 - Bug fixes
+*   Fixed label generator
+*   Fixed various other bugs
+*   Corrected in CHANGELOG.md the title commit 1.0.0

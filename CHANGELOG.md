@@ -5,3 +5,7 @@
 *   Replaced the Sample Configuration image with an update one
 *   Updated the button labeler. Now, if the label of a button is blank in the configuration, the Touch Bar will show the name of the action called when pressed
 *   Added an author entry to package.json
+
+## 0.3.0 - package.json Update
+*   Added keywords to package.json
+*   Now the package activates when atom starts

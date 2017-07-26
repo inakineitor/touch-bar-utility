@@ -1,2 +1,7 @@
 ## 0.1.0 - First Release
 *   First commit, so all current features were added
+
+## 0.2.0 - Tiny Update
+*   Replaced the Sample Configuration image with an update one
+*   Updated the button labeler. Now, if the label of a button is blank in the configuration, the Touch Bar will show the name of the action called when pressed
+*   Added an author entry to package.json

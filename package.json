@@ -1,10 +1,10 @@
 {
   "name": "touch-bar-utility",
   "main": "./lib/touch-bar-utility",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "description": "An Atom package that allows you to assign custom actions to Touch Bar buttons.",
   "keywords": ["touch", "bar", "mac", "macbook", "pro"],
-  "repository": "https://github.com/atom/touch-bar-utility",
+  "repository": "https://github.com/inakineitor/touch-bar-utility",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

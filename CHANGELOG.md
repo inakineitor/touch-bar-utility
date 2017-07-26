@@ -9,3 +9,7 @@
 ## 0.3.0 - package.json Update
 *   Added keywords to package.json
 *   Now the package activates when atom starts
+
+### 1.0.0 - 1.0.0
+*   Updated repository in package.json
+*   Change version number to 1.0.0 to publish to apm

@@ -1,0 +1,23 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "TouchBar Utility",
+          "submenu": [
+            {
+              "label": "Toot",
+              "command": "touch-bar-utility:toot"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

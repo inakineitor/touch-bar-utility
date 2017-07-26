@@ -4,7 +4,10 @@
   "version": "1.0.0",
   "description": "An Atom package that allows you to assign custom actions to Touch Bar buttons.",
   "keywords": ["touch", "bar", "mac", "macbook", "pro"],
-  "repository": "https://github.com/inakineitor/touch-bar-utility",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inakineitor/touch-bar-utility"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

@@ -13,3 +13,5 @@
 ### 1.0.0 - 1.0.0
 *   Updated repository in package.json
 *   Change version number to 1.0.0 to publish to apm
+
+### 1.0.1 - Deleted unecessary code from touch-bar-utility.js

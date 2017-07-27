@@ -32,5 +32,3 @@
 *   Added custom errors for different operating systems
 
 #### 1.1.1 - Atom version check no precedes OS check
-
-#### 1.1.2 - Added the cdbug() method

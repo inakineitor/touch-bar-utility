@@ -33,4 +33,6 @@
 
 #### 1.1.1 - Atom version check no precedes OS check
 
-#### 1.1.2 - Added the cdbug() method
+#### 1.1.2 - apm bug
+
+#### 1.1.3 - Added the cdbug() method

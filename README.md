@@ -1,7 +1,8 @@
+# Touch Bar Utility
+
 <div class="alert alert-warning" role="alert">
   <strong>Beware</strong> This package only works with Atom Beta v1.19
 </div>
-# Touch Bar Utility
 
 An Atom package that allows you to assign custom actions to Touch Bar buttons.
 

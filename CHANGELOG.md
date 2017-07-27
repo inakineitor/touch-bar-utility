@@ -1,32 +1,34 @@
-## 0.1.0 - First Release
+### 0.1.0 - First Release
 *   First commit, so all current features were added
 
-## 0.2.0 - Tiny Update
+### 0.2.0 - Tiny Update
 *   Replaced the Sample Configuration image with an update one
 *   Updated the button labeler. Now, if the label of a button is blank in the configuration, the Touch Bar will show the name of the action called when pressed
 *   Added an author entry to package.json
 
-## 0.3.0 - package.json Update
+### 0.3.0 - package.json Update
 *   Added keywords to package.json
 *   Now the package activates when atom starts
 
-### 1.0.0 - 1.0.0
+## 1.0.0 - 1.0.0
 *   Updated repository in package.json
 *   Change version number to 1.0.0 to publish to apm
 
-### 1.0.1 - Deleted unnecessary code from touch-bar-utility.js
+#### 1.0.1 - Deleted unnecessary code from touch-bar-utility.js
 
-### 1.0.2 - apm publishing error
-### 1.0.3 - apm publishing error
+#### 1.0.2 - apm publishing error
+#### 1.0.3 - apm publishing error
 
-### 1.0.4 - Bug fixes
+#### 1.0.4 - Bug fixes
 *   Fixed label generator
 *   Fixed various other bugs
 *   Corrected in CHANGELOG.md the title commit 1.0.0
 
-### 1.0.5/6 - apm publishing error
+#### 1.0.5/6 - apm publishing error
 
-### 1.0.7/8/9 - Updated README.md
+#### 1.0.7/8/9 - Updated README.md
 
 ### 1.1.0 - UI improvement
 *   Added custom errors for different operating systems
+
+#### 1.1.1 - Atom version check no precedes OS check

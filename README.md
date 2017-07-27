@@ -1,6 +1,3 @@
-<div class="alert alert-warning" role="alert">
-  This package only works with Atom Beta v1.19
-</div>
 # Touch Bar Utility
 
 An Atom package that allows you to assign custom actions to Touch Bar buttons.
@@ -15,6 +12,6 @@ An Atom package that allows you to assign custom actions to Touch Bar buttons.
 
 ## Images
 ### Sample Configuration
-![The screenshot of the sample configuration](https://raw.githubusercontent.com/inakineitor/touch-bar-utility/master/images/sample-configuration/settings-capture.png)
+![The screenshot of the sample configuration](https://raw.githubusercontent.com/inakineitor/touch-bar-utility/master/images/sample-settings-capture.png)
 ### Touch Bar with Sample Configuration
 ![The screenshot of the Touch Bar with the sample configuration](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)

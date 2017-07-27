@@ -35,4 +35,6 @@
 
 #### 1.1.2 - apm bug
 
-#### 1.1.3 - Added the cdbug() method
+#### 1.1.3 - apm bugs
+
+#### 1.1.4 - Added the cdbug() method

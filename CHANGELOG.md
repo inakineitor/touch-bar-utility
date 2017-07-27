@@ -26,4 +26,7 @@
 
 ### 1.0.5/6 - apm publishing error
 
-### 1.0.7
+### 1.0.7/8/9 - Updated README.md
+
+### 1.1.0 - UI improvement
+*   Added custom errors for different operating systems

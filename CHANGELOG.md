@@ -23,3 +23,7 @@
 *   Fixed label generator
 *   Fixed various other bugs
 *   Corrected in CHANGELOG.md the title commit 1.0.0
+
+### 1.0.5/6 - apm publishing error
+
+### 1.0.7

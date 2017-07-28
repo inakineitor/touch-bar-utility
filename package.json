@@ -4,6 +4,7 @@
   "version": "1.1.5",
   "description": "An Atom package that allows you to assign custom actions to Touch Bar buttons.",
   "keywords": [
+    "touchbar",
     "touch",
     "bar",
     "mac",
@@ -16,7 +17,7 @@
   },
   "license": "MIT",
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
+    "atom": ">=1.19.0 <2.0.0"
   },
   "author": {
     "name": "Iñaki Arango",

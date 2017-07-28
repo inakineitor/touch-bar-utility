@@ -40,3 +40,17 @@
 #### 1.1.4 . apm bug
 
 #### 1.1.5 - Added the cdbug() method
+
+## 2.0.0 - Total overhaul
+*   Corrected supported versions in package.json
+*   Added "touchbar" all together to the search words
+*   The package is now configured using JSON
+*   Updated instructions in README.md
+*   Touch bar elements no supported
+    *   TouchBarButton
+    *   TouchBarColorPicker
+    *   TouchBarGroup
+    *   TouchBarLabel
+    *   TouchBarPopover
+    *   TouchBarSlider
+    *   TouchBarSpacer

@@ -62,8 +62,8 @@ An Atom package that allows you to assign custom actions to Touch Bar buttons.
  Name of variable | Type of variable | Optional | Description                          | Options  | Options description
  -----------------|------------------|----------|--------------------------------------|---------------------------------------
  size             | **String**       | _Yes_    | Size of spacer, possible values are: | small    | Small space between items.
-                  |                  |          |                                      | large    | Large space between items.
-                  |                  |          |                                      | flexible | Take up all available space.
+ _________________|__________________|__________|______________________________________| large    | Large space between items.
+ _________________|__________________|__________|______________________________________| flexible | Take up all available space.
 
 ## Images
 ### Sample Configuration

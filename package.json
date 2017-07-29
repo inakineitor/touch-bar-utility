@@ -5,6 +5,7 @@
   "description": "An Atom package that allows you to assign custom actions to Touch Bar buttons.",
   "keywords": [
     "touchbar",
+    "touch-bar"
     "touch",
     "bar",
     "mac",

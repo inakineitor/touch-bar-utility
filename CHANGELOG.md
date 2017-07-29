@@ -57,3 +57,6 @@
 
 ## 2.0.1 - Bug fixes
 *   Removed '()' from touch-bar-utility.js 211:50-52
+
+## 2.0.2 - Bug fixes
+*   Added ')' to touch-bar-utility.js 216:167

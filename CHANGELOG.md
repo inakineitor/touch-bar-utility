@@ -55,8 +55,11 @@
     *   TouchBarSlider
     *   TouchBarSpacer
 
-## 2.0.1 - Bug fixes
+#### 2.0.1 - Bug fixes
 *   Removed '()' from touch-bar-utility.js 211:50-52
 
-## 2.0.2 - Bug fixes
+#### 2.0.2 - Bug fixes
 *   Added ')' to touch-bar-utility.js 216:167
+
+#### 2.0.3 - Bug fixes
+*   Fixed ReferenceError in touch-bar-utility.js 160:27-39

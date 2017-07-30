@@ -73,3 +73,7 @@
 
 #### 2.0.6 - Bug fixes
 *   Updated the configurations instructions
+
+#### 2.0.7 - Bug fixes
+*   Fixed a button's dispatchPackageAction error
+*   Updated button's documentation in the README.md file

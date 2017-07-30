@@ -80,3 +80,7 @@
 
 #### 2.0.8 - Bug fixes
 *   Added check before creating nativeImage from path
+
+#### 2.0.9 - Bug fixes
+*   Nested the button's dispatch event in another function.
+*   Enabled TOOT's testing feature.

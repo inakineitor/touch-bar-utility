@@ -77,3 +77,6 @@
 #### 2.0.7 - Bug fixes
 *   Fixed a button's dispatchPackageAction error
 *   Updated button's documentation in the README.md file
+
+#### 2.0.8 - Bug fixes
+*   Added check before creating nativeImage from path

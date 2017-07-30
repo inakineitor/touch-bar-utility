@@ -63,3 +63,6 @@
 
 #### 2.0.3 - Bug fixes
 *   Fixed ReferenceError in touch-bar-utility.js 160:27-39
+
+#### 2.0.4 - Bug fixes
+*   Adjusted default configuration

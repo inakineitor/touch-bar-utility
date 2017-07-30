@@ -4,7 +4,7 @@
   <strong>Beware</strong> This package only works with Atom Beta v1.19
 </div>
 <br>
-An Atom package that allows you to assign custom actions to Touch Bar buttons.
+An Atom package that allows you to assign custom actions to Touch Bar components.
 
 ## Usage
 1.  Go to File → Settings → Packages
@@ -60,13 +60,13 @@ An Atom package that allows you to assign custom actions to Touch Bar buttons.
 
 ### TouchBarSpacer (type: "spacer")
  Name of variable | Type of variable | Optional | Description                          | Options  | Options description
- -----------------|------------------|----------|--------------------------------------|---------------------------------------
+ -----------------|------------------|----------|--------------------------------------|----------|----------------------------
  size             | **String**       | _Yes_    | Size of spacer, possible values are: | small    | Small space between items.
- _________________|__________________|__________|______________________________________| large    | Large space between items.
- _________________|__________________|__________|______________________________________| flexible | Take up all available space.
+                  |                  |          |                                      | large    | Large space between items.
+                  |                  |          |                                      | flexible | Take up all available space.
 
 ## Images
 ### Sample Configuration
-![The screenshot of the sample configuration](https://raw.githubusercontent.com/inakineitor/touch-bar-utility/master/images/sample-configuration/settings-capture.png)
+![The screenshot of the sample configuration](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
 ### Touch Bar with Sample Configuration
 ![The screenshot of the Touch Bar with the sample configuration](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)

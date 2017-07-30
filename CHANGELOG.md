@@ -70,3 +70,6 @@
 #### 2.0.5 - Bug fixes
 *   Beautified touch-bar-utility.js
 *   Removed line 335
+
+#### 2.0.6 - Bug fixes
+*   Updated the configurations instructions

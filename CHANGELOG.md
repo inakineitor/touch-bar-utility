@@ -90,3 +90,5 @@
 *   Improved performance by removing unnecessary functions
 *   Fixed issue where the dispatch call was being passed to the wrong target
 *   Updated README.md
+
+#### 2.0.11 - apm bug

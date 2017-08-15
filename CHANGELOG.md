@@ -84,3 +84,9 @@
 #### 2.0.9 - Bug fixes
 *   Nested the button's dispatch event in another function.
 *   Enabled TOOT's testing feature.
+
+#### 2.0.10 - Bug fixes
+*   Fixed support for native images
+*   Improved performance by removing unnecessary functions
+*   Fixed issue where the dispatch call was being passed to the wrong target
+*   Updated README.md

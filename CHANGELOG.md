@@ -92,3 +92,6 @@
 *   Updated README.md
 
 #### 2.0.11 - apm bug
+
+### 2.1.0 - Touch Bar auto-update
+*   The Touch Bar now updates automatically when the configuration is changed

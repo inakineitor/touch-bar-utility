@@ -95,3 +95,7 @@
 
 ### 2.1.0 - Touch Bar auto-update
 *   The Touch Bar now updates automatically when the configuration is changed
+
+### 2.2.0 - Modified button properties
+*   The atom package action dispatch target can now be explicitly configured
+*   Added Touch Bar screenshot to README.md

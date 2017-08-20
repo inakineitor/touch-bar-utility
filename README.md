@@ -68,4 +68,4 @@ An Atom package that allows you to assign custom actions to Touch Bar components
 
 ## Images
 ### Touch Bar with Sample Configuration
-![The screenshot of the Touch Bar with the sample configuration](https://raw.githubusercontent.com/inakineitor/touch-bar-utility/master/images/sample-configuration/touchbar-capture.png)
+![The screenshot of the Touch Bar with the sample configuration](https://raw.githubusercontent.com/inakineitor/touch-bar-utility/master/images/sample-configuration/touch-bar-capture.png)

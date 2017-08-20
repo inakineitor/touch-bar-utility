@@ -99,3 +99,8 @@
 ### 2.2.0 - Modified button properties
 *   The atom package action dispatch target can now be explicitly configured
 *   Added Touch Bar screenshot to README.md
+
+### 2.3.0 - Added support for editor actions
+*   The button can now toggle editor actions
+*   Removed Atom 1.19.0 beta warning
+*   Updated the default settings and the sample configuration Touch Bar screenshot

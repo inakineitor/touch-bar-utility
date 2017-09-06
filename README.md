@@ -1,7 +1,7 @@
 # Touch Bar Utility
 
 <div class="alert alert-warning" role="alert">
-  <strong>Beware</strong> This package only works with Atom Beta v1.19
+  <strong>Beware</strong> This package only works with Atom >=v1.19
 </div>
 <br>
 An Atom package that allows you to assign custom actions to Touch Bar components.
@@ -10,7 +10,7 @@ An Atom package that allows you to assign custom actions to Touch Bar components
 1.  Go to File → Settings → Packages
 2.  Find touch-bar-utility and click on the card **but not on the name of the package**
 3.  Go to Settings and edit the Buttons entry with a JSON array of Touch Bar components
-    *   A component has the following format: {type: <typeOfElement>\[, ...\]}
+    *   A component has the following format: {"type": "&lt;typeOfElement&gt;"\[, ...\]}
 
 ## Touch Bar Components
 
@@ -22,7 +22,7 @@ An Atom package that allows you to assign custom actions to Touch Bar components
  pathOfIcon           | **String**       | _Yes_    | Path to button icon.
  iconPosition         | **String**       | _No_     | Can be left, right or overlay.
  click                | **Function**     | _Yes_    | Function to call when the button is clicked.
- clickDispatchAction  | **String**       | _Yes_    | Event from another package that you want to execute when button is clicked. It will override the click property. It must be in the following format: "<package-name>:<event-name>" without quotation marks.
+ clickDispatchAction  | **String**       | _Yes_    | Event from another package that you want to execute when button is clicked. It will override the click property. It must be in the following format: "&lt;package-name&gt;:&lt;event-name&gt;" without quotation marks.
  dispatchActionTarget | **String**       | _Yes_    | Can have a value of 'workspace' or 'editor'. It defaults to 'workspace'.
 
 ### TouchBarColorPicker (type: "color-picker")
@@ -46,8 +46,8 @@ An Atom package that allows you to assign custom actions to Touch Bar components
  Name of variable | Type of variable          | Optional | Description
  -----------------|---------------------------|----------|--------------------------------------------------------------------------------------------------
  label            | **String**                | _Yes_    | Popover button text.
- <!-- pathOfIcon       | **String**                | _Yes_    | Popover button icon. -->
- <!-- items            | **Array of elements**     | _Yes_    | Items to display in the popover. -->
+ pathOfIcon       | **String**                | _Yes_    | Popover button icon.
+ items            | **Array of elements**     | _Yes_    | Items to display in the popover.
  showCloseButton  | **Boolean**               | _Yes_    | true to display a close button on the left of the popover, false to not show it. Default is true.
 
 ### TouchBarSlider (type: "slider")

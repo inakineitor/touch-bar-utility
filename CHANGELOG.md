@@ -104,3 +104,10 @@
 *   The button can now toggle editor actions
 *   Removed Atom 1.19.0 beta warning
 *   Updated the default settings and the sample configuration Touch Bar screenshot
+
+#### 2.3.1 - Bug fixes
+*   Arrays now work
+
+#### 2.4.0 - Modified settings' options
+*   Added a button that allows the user to disable the TouchBar
+*   Now one can trigger the event that updates the Touch Bar without the need to reload the window

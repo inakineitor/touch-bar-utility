@@ -111,3 +111,7 @@
 #### 2.4.0 - Modified settings' options
 *   Added a button that allows the user to disable the TouchBar
 *   Now one can trigger the event that updates the Touch Bar without the need to reload the window
+
+#### 2.5.0 - Added new functions for buttons
+*   Buttons can now insert string
+*   Button's clickDispatchAction now supports pane commands

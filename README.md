@@ -20,10 +20,11 @@ An Atom package that allows you to assign custom actions to Touch Bar components
  label                | **String**       | _Yes_    | Button text.
  backgroundColor      | **String**       | _Yes_    | Button background color in hex format, i.e #ABCDEF.
  pathOfIcon           | **String**       | _Yes_    | Path to button icon.
- iconPosition         | **String**       | _No_     | Can be left, right or overlay.
+ iconPosition         | **String**       | _Yes_    | Can be left, right or overlay.
  click                | **Function**     | _Yes_    | Function to call when the button is clicked.
  clickDispatchAction  | **String**       | _Yes_    | Event from another package that you want to execute when button is clicked. It will override the click property. It must be in the following format: "&lt;package-name&gt;:&lt;event-name&gt;" without quotation marks.
- dispatchActionTarget | **String**       | _Yes_    | Can have a value of 'workspace' or 'editor'. It defaults to 'workspace'.
+ dispatchActionTarget | **String**       | _Yes_    | Can have a value of 'workspace' or 'editor'. It defaults to 'workspace'. _For proper functioning of the pane commands, set the target to 'editor'_
+ insertCharacter      | **String**       | _Yes_    | Character to be inserted in the active editor when the button is pressed. It will override the clickDispatchAction property.
 
 ### TouchBarColorPicker (type: "color-picker")
  Name of variable | Type of variable | Optional | Description                                                        | Return values | Return values type | Return values description

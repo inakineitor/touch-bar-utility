@@ -48,7 +48,7 @@ An Atom package that allows you to assign custom actions to Touch Bar components
  -----------------|---------------------------|----------|--------------------------------------------------------------------------------------------------
  label            | **String**                | _Yes_    | Popover button text.
  pathOfIcon       | **String**                | _Yes_    | Popover button icon.
- items            | **Array of elements**     | _Yes_    | Items to display in the popover.
+ items            | **Array of elements**     | _Yes_    | Items to display in the popover. <div class="alert-warning" role="alert">Color-pickers and other popovers cannot be placed inside of popovers</div>
  showCloseButton  | **Boolean**               | _Yes_    | true to display a close button on the left of the popover, false to not show it. Default is true.
 
 ### TouchBarSlider (type: "slider")
@@ -69,4 +69,5 @@ An Atom package that allows you to assign custom actions to Touch Bar components
 
 ## Images
 ### Touch Bar with Sample Configuration
-![The screenshot of the Touch Bar with the sample configuration](https://raw.githubusercontent.com/inakineitor/touch-bar-utility/master/images/sample-configuration/touch-bar-capture.png)
+![The screenshot of the Touch Bar with the sample configuration](https://raw.githubusercontent.com/inakineitor/touch-bar-utility/master/images/sample-configuration/touch-bar-main-capture.png)
+![The screenshot of the Touch Bar with the sample configuration](https://raw.githubusercontent.com/inakineitor/touch-bar-utility/master/images/sample-configuration/touch-bar-slider-capture.png)

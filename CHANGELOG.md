@@ -114,3 +114,11 @@
 
 #### 2.5.1 - Amended error in documentation
 *   Replaced 'insertCharacter' with 'insertString'
+
+## 3.0.0 - Redesigned configuration system
+*   Modified default configuration so as to show a bit of every component available
+*   Completely redesigned the configuration system
+*   Updated README.md to reflect these changes
+*   Fixed a few bugs
+*   Added a bit more information to the README.md file
+*   Updated the default Touch Bar screenshots

@@ -1,7 +1,7 @@
 {
   "context-menu": {
     "atom-text-editor": [
-      
+
     ]
   },
   "menu": [
@@ -14,6 +14,10 @@
             {
               "label": "Toot",
               "command": "touch-bar-utility:toot"
+            },
+            {
+              "label": "Edit configuration",
+              "command": "touch-bar-utility:edit-configuration"
             }
           ]
         }

@@ -122,3 +122,10 @@
 *   Fixed a few bugs
 *   Added a bit more information to the README.md file
 *   Updated the default Touch Bar screenshots
+
+#### 3.0.1 - Changed name
+*   The package name was changed from 'touch-bar-utility' to 'touchbar-utility' in an SEO effort
+
+#### 3.0.2 - Bug fixes
+*   Solved problems related to the name change
+*   Updated the package's description to reflect new functionality

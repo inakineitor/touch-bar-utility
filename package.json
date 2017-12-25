@@ -2,7 +2,7 @@
   "name": "touchbar-utility",
   "main": "./lib/touch-bar-utility",
   "version": "3.0.1",
-  "description": "An Atom package that allows you to assign custom actions to Touch Bar buttons.",
+  "description": "Provides an easier way to configure a Touch Bar with the capability to interact with atom",
   "keywords": [
     "touchbar",
     "touch-bar",

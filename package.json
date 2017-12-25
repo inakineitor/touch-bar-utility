@@ -1,7 +1,7 @@
 {
   "name": "touchbar-utility",
   "main": "./lib/touch-bar-utility",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "Provides an easier way to configure a Touch Bar with the capability to interact with atom",
   "keywords": [
     "touchbar",

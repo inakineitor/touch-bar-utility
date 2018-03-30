@@ -46,7 +46,7 @@
 *   Added "touchbar" all together to the search words
 *   The package is now configured using JSON
 *   Updated instructions in README.md
-*   Touch bar elements no supported
+*   Touch bar elements now supported
     *   TouchBarButton
     *   TouchBarColorPicker
     *   TouchBarGroup
@@ -129,3 +129,11 @@
 #### 3.0.2 - Bug fixes
 *   Solved problems related to the name change
 *   Updated the package's description to reflect new functionality
+
+### 3.1.0 - Modified settings' options
+*   Moved dispatchAction to its own file
+*   Fixed dispatchAction for some packages that previously did not work
+*   The dispatchAction function can now be called from the configuration
+*   Changed label in settings
+*   Removed TOOT
+*   Added the template for a future function that will allow the manipulation of the Touch Bar from other packages

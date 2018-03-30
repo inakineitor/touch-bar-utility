@@ -12,10 +12,6 @@
           "label": "TouchBar Utility",
           "submenu": [
             {
-              "label": "Toot",
-              "command": "touch-bar-utility:toot"
-            },
-            {
               "label": "Edit configuration",
               "command": "touch-bar-utility:edit-configuration"
             }

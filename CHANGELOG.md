@@ -137,3 +137,7 @@
 *   Changed label in settings
 *   Removed TOOT
 *   Added the template for a future function that will allow the manipulation of the Touch Bar from other packages
+
+### 3.2.0 - Added configuration backups
+*   The configuration is now backed up automatically every time atom is started
+*   Fixed a dispatchAction bug

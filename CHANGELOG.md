@@ -141,3 +141,6 @@
 ### 3.2.0 - Added configuration backups
 *   The configuration is now backed up automatically every time atom is started
 *   Fixed a dispatchAction bug
+
+### 3.3.0 - Added the ability to toggle packages with many subpackages
+*   Each subpackage of a superpackage (like atom-ide-ui) can now be toggled
